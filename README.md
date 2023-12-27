@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/blucorazon/qr-code-component)
+- Live Site URL: [Github Pages](https://blucorazon.github.io/qr-code-component/)
 
 ## My process
 As I am trying to get more organized and methodical about my process, here are the pre-planned steps I outlined before beginning my attempt. 
