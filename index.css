@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1.25rem;
+    padding: 1rem;
+    width: 18rem;
+
+    margin-top: 4.5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.qr-code {
+    border-radius: 1rem;
+    max-width: 100%;
+    height: auto;
+}
+
+h1 {
+    color: black;
+    font-weight: bolder;
+    padding-top: 1rem;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 1rem;
+    padding-top: 1rem;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
